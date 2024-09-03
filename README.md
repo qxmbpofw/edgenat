@@ -3,7 +3,7 @@
 ## EdgeNat 介绍
 EdgeNat成立于2019年，专注于提供VPS云服务器和独立服务器，覆盖美国、韩国和香港等多个数据中心。EdgeNat的产品以高性价比和多样化的线路选择著称，特别是其美国双ISP住宅IP、三网AS4837线路以及香港、韩国的三网直连和CN2线路。
 
-!EdgeNat怎么样？EdgeNat介绍和测评](https://github.com/user-attachments/assets/7f20e3ff-c6ed-41d9-a242-5856d9d02504)
+![EdgeNat怎么样？EdgeNat介绍和测评](https://github.com/user-attachments/assets/7f20e3ff-c6ed-41d9-a242-5856d9d02504)
 
 ## EdgeNat 官网地址
 [EdgeNat官方网站](https://www.edgenat.com/aff.php?aff=1125)
